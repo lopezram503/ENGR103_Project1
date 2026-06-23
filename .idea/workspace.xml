@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ef4f48b-88ab-4052-806b-dc5dead70cac" name="Changes" comment="animal.py assignment" />
+    <list default="true" id="3ef4f48b-88ab-4052-806b-dc5dead70cac" name="Changes" comment="animal.py assignment">
+      <change beforePath="$PROJECT_DIR$/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +15,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lopezram503"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lopezram503/ENGR103_Project1.git",
+    "accountId": "a2aa1103-7fff-40d3-8a78-a8f6845ee464"
+  }
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000050351788177" />
-      <entry key="MS500" value="1.1054432760783375" />
-      <entry key="S2" value="2.273921463908642" />
-      <entry key="S5" value="3.9393157333725712" />
-      <entry key="S10" value="5.127763657933052" />
-      <entry key="S30" value="6.276155956746589" />
-      <entry key="S60" value="6.623711823867774" />
-      <entry key="M2" value="6.810113183418735" />
-      <entry key="M5" value="7.846817813889712" />
-      <entry key="M10" value="14.24562361715203" />
-      <entry key="M15" value="21.503330237425786" />
-      <entry key="M30" value="35.999631863454496" />
-      <entry key="H1" value="48.00874745774699" />
-      <entry key="H2" value="55.76881371173674" />
-      <entry key="H4" value="60.184173384869595" />
-      <entry key="D1" value="64.1680456543746" />
-      <entry key="W1" value="64.88041092094423" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000000252949" />
+      <entry key="M2" value="1.0000133082350307" />
+      <entry key="M5" value="1.0408394629387119" />
+      <entry key="M10" value="2.027719725294504" />
+      <entry key="M15" value="4.726500715440091" />
+      <entry key="M30" value="15.986347606678079" />
+      <entry key="H1" value="31.975565696892094" />
+      <entry key="H2" value="45.79616565817348" />
+      <entry key="H4" value="54.93951258926233" />
+      <entry key="D1" value="64.00711561412271" />
+      <entry key="W1" value="65.71140764844965" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -53,23 +67,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659411909886165" />
-      <entry key="MS500" value="1.0840719319492869" />
-      <entry key="S2" value="2.1427435302572193" />
-      <entry key="S5" value="3.8265786482001656" />
-      <entry key="S10" value="5.054428879715115" />
-      <entry key="S30" value="6.246947841003773" />
-      <entry key="S60" value="6.6084377977038375" />
-      <entry key="M2" value="6.80229879542368" />
-      <entry key="M5" value="7.843078395733598" />
-      <entry key="M10" value="14.241941066502655" />
-      <entry key="M15" value="21.49955998552582" />
-      <entry key="M30" value="35.996469472362335" />
-      <entry key="H1" value="48.006647845121364" />
-      <entry key="H2" value="55.76759818057007" />
-      <entry key="H4" value="60.1835187272992" />
-      <entry key="D1" value="64.16792951694829" />
-      <entry key="W1" value="64.88039415068057" />
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.9821395952633915" />
+      <entry key="S2" value="0.995504677670617" />
+      <entry key="S5" value="0.9981994402866303" />
+      <entry key="S10" value="0.9990993145261537" />
+      <entry key="S30" value="0.9996996813264409" />
+      <entry key="S60" value="0.9998498294128507" />
+      <entry key="M2" value="0.9999382048389484" />
+      <entry key="M5" value="1.040789964876773" />
+      <entry key="M10" value="2.027439037561249" />
+      <entry key="M15" value="4.725837323341387" />
+      <entry key="M30" value="15.985026123493784" />
+      <entry key="H1" value="31.974208509722477" />
+      <entry key="H2" value="45.79518803416857" />
+      <entry key="H4" value="54.938925232670385" />
+      <entry key="D1" value="64.00700147356494" />
+      <entry key="W1" value="65.71139090697089" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782236172036</updated>
       <workItem from="1782236173061" duration="1327000" />
-      <workItem from="1782238044028" duration="3786000" />
+      <workItem from="1782238044028" duration="4826000" />
     </task>
     <task id="LOCAL-00001" summary="animal.py assignment">
       <option name="closed" value="true" />
@@ -126,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782241537323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="animal.py assignment">
+      <option name="closed" value="true" />
+      <created>1782242168703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782242168703</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +159,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="animal.py assignment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ENGR103_Project1$animal.coverage" NAME="animal Coverage Results" MODIFIED="1782239081889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ENGR103_Project1$animal.coverage" NAME="animal Coverage Results" MODIFIED="1782242660426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
