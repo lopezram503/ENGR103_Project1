@@ -1,6 +1,6 @@
 # Author: Ramiro Lopez
 # GitHub username: lopezram503
-# Date: 6/28/26
+# Date: 6/29/26
 # Description: Asks the user for Celsius temperature and
 #              prints the Fahrenheit temperature.
 
