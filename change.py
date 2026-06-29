@@ -10,7 +10,7 @@ print('Please enter an amount in cents less than a dollar.')
 cents = int(input())
 
 # Use floor division (//) to find the number of quarters.
-# calculate the number of quarters, dimes, nickles, and pennies.
+# calculate % the number of quarters, dimes, nickles, and pennies.
 quarters = cents // 25
 remainder = cents % 25
 
