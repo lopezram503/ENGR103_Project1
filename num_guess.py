@@ -10,7 +10,7 @@ print('Enter the integer for the player to guess.') # This lines tells the first
 
 guess_number = int(input()) # This line saves the number that the first player entered.
 
-print(' Enter your guess.') # This line tells the second player to enter their guess
+print('Enter your guess.') # This line tells the second player to enter their guess
 
 num = int(input()) # This line asks the other player to make their first guess.
 
@@ -30,4 +30,4 @@ while num != guess_number: # This line keeps the game going until the other play
 if count == 1: # This line checks if the player guessed the number on the first try.
     print('You guessed it in 1 try.') # This line lets the player know
 else: # This lines runs if it took more than once to guess.
-    print('You guessed it in ' , count, 'tries.') # This tells the player how many tries it took.
+    print('You guessed it in', count, 'tries.') # This tells the player how many tries it took.
