@@ -5,9 +5,14 @@
 # The code lets the player know if each guess is too high or too low
 # and then tells how many guesses it took.
 
-guess_number = int(input('Enter the integer for the player to guess.')) # This line asks the first player the number
-# that will be guessed.
-num = int(input('Enter your guess')) # This line asks the other player to make their first guess.
+print('Enter the integer for the player to guess.') # This lines tells the first player to enter to
+# enter the number to be guessed.
+
+guess_number = int(input()) # This line saves the number that the first player entered.
+
+print(' Enter your guess.') # This line tells the second player to enter their guess
+
+num = int(input()) # This line asks the other player to make their first guess.
 
 count = 1 # This line starts counting the guesses. The first guess counts as 1.
 
